@@ -1,0 +1,47 @@
+/*-- Student: Rafael Santos - Homework 11
+  -- Data Analytics and Visualization Cohort 3
+*/
+
+
+/*
+ First External CSS Stylesheet
+ */
+
+/* Styling for HTML elements */
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background: #b6aa54;
+}
+
+header {
+  background: rgb(168, 63, 98);  
+}
+
+
+h2 {
+  font-size: 24px;
+  color: #f3f7f6;
+}
+
+h5 {
+  color: #ac4277;
+  }
+
+a {
+  color: #10d2b8;
+}
+
+
+/* Selecting elements by ID */
+
+#side-bar {
+  background: #5e5938;
+  ;
+}
+
+/* using class from Bootstrap only*/
